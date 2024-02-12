@@ -15,8 +15,10 @@ __expln__ =""
 
 def printUsage():
     print('python {0}'.format(__moduleName__) )
-
-
+""" 
+def printUsage():
+    print('python {0}'.format(__moduleName__) )
+ """
 
 def run(s):
     """ Checks if s is a pangram 
