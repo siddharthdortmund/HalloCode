@@ -83,11 +83,10 @@ def main(argv):
         printUsage()
         return
         
-
-    """     anagram = run(s1,s2)
+    anagram = run(s1,s2)
     print('{0} and {1} are{2} anagrams'.format(s1,s2,' NOT' if not anagram else ''))
     return
-         """
+
 
 
     
