@@ -60,9 +60,11 @@ if __name__ == '__main__':
     #d= getHistogram('Samsung IS SMARTP')
    # result = {}
    # for key, value in d.items():
+
      #   lower_key = key.lower()
       #  result[lower_key] = result.get(lower_key, 0) + value
    # return result
+# add changes
                 
 def histogramV2():
     d= {'a':2,'A':12,'c':11}
